@@ -1,0 +1,19 @@
+# Secrets and Configuration
+config.json
+cert.pem
+key.pem
+cookies.txt
+
+# Uploads directory contents (allow keeping the directory with a placeholder if needed, or ignore entirely)
+uploads/
+received_*
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled binaries
+server
+client
